@@ -24,7 +24,7 @@ class obj{
         if (this.frame > limit) {
             this.frame = 0
         }
-        this.imagem = 'img/' + nameImage + this.frame + '.png'
+        this.image = 'img/' + nameImage + this.frame + '.png'
     }
 }
 
